@@ -19,4 +19,8 @@ Below documents have been created as part of the test artifacts
 Assumption:
 I have named the project in this document as "Unicourt Support Portal 1.0"
 
+Steps to clone:
+git clone https://github.com/VinuthaMuraleedharan/test-unicourt_repo
+
+
    
